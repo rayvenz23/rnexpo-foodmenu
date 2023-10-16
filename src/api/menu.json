@@ -1,0 +1,44 @@
+{
+  "dishes": [
+    {
+      "image": "https://www.cloverleaf.ca/wp-content/uploads/2021/08/7477_Day1_293-Lobster-SurimiBaby-Bok-Choy@2x-1920x960.jpg",
+      "category": "fish",
+      "name": "Lobster tails and sesame Bok Choy",
+      "price": "300",
+      "ingredients": "shiitake mushroom, sesame oil, 2 lobster tails, hot cooked brown basmati or jasmine rice, 2 heads baby bok choy, white miso",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. "
+    },
+    {
+        "image": "https://www.foodfaithfitness.com/wp-content/uploads/2014/02/FG-TK-1-2-500x500.jpg",
+        "category": "meat",
+        "name": "Coffee-Rubbed Steak with brussels salad",
+        "price": "300",
+        "ingredients": "ground coffee beans, shredded Brussels sprouts, blue cheese, black pepper, 500g hanger steak, olive oil, honey, chopped toasted pecans, ",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. "
+    },
+    {
+        "image": "https://www.simplyrecipes.com/thmb/pYy2PJ5oM7Hx_zOydltq6sDNTwE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Simply-Recipes-Scotch-Eggs-LEAD-04-d167adc0aa5e4576aec9ed9fdd4568a0.jpg",
+        "category": "meat",
+        "name": "Lightened-Up scotch eggs",
+        "price": "300",
+        "ingredients": "ground turkey, fresh sage, garlic clove, 4 hard-cooked large eggs, canola oil",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. "
+    },
+    {
+        "image": "https://keviniscooking.com/wp-content/uploads/2020/04/Romesco-Sauce-square.jpg",
+        "category": "garnish",
+        "name": "Romesco sauce",
+        "price": "300",
+        "ingredients": "4 garlic cloves, red bell peppers, jalapeño or fresno chile, olive oil, tomato, red wine",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. "
+    },
+    {
+        "image":"https://i0.wp.com/www.pardonyourfrench.com/wp-content/uploads/2017/07/Classic-French-Cherry-Clafoutis.jpg?fit=2000%2C3000&ssl=1",
+        "category": "desert",
+        "name": "Cranberry and dark cherry clafoutis",
+        "price": "300",
+        "ingredients": "almond extract, cranberries, cinnamon, cherries, reduced-fat milk, sugar",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. "
+    }
+  ]
+}

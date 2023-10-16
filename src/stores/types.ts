@@ -1,0 +1,15 @@
+export const productType = {
+  IDLE: 'idle',
+  GET_DISHES_LOADING: 'get_dishes_loading',
+  GET_DISHES_SUCCESS: 'get_dishes_success',
+  GET_DISHES_FAIL: 'get_dishes_fail',
+  CREATE_DISH_LOADING: 'create_dish_loading',
+  CREATE_DISH_SUCCESS: 'create_dish_success',
+  CREATE_DISH_FAIL: 'create_dish_fail',
+  UPDATE_DISH_LOADING: 'update_dish_loading',
+  UPDATE_DISH_SUCCESS: 'update_dish_success',
+  UPDATE_DISH_FAIL: 'update_dish_fail',
+  DELETE_DISH_LOADING: 'delete_dish_loading',
+  DELETE_DISH_SUCCESS: 'delete_dish_success',
+  DELETE_DISH_FAIL: 'delete_dish_fail',
+}
